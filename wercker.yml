@@ -22,4 +22,4 @@ build:
       after-steps:
         - hipchat-notify:
           token: 94ce6003b3520aebbd1370ee230e39
-            room-id: 172002
+            room-id: 172022
